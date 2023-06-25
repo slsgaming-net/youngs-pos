@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<items>
+
+    <item>
+        <name>Chicken Egg Foo Young</name>
+        <abbrev>CH E.F.Y</abbrev>
+        <chinese>鸡蓉蛋</chinese>
+        <type>B</type>
+        <pint_price>9.50</pint_price>
+        <quart_price>11.99</quart_price>
+    </item>
+
+
+    <item>
+        <name>Roast Pork Egg Foo Young</name>
+        <abbrev>Pork E.F.Y</abbrev>
+        <chinese>猪肉蓉蛋</chinese>
+        <type>B</type>
+        <pint_price>9.50</pint_price>
+        <quart_price>11.99</quart_price>
+    </item>
+
+
+    <item>
+        <name>Vegetable Egg Foo Young</name>
+        <abbrev>VEG E.F.Y</abbrev>
+        <chinese>瓜菜蓉蛋</chinese>
+        <type>B</type>
+        <pint_price>9.50</pint_price>
+        <quart_price>11.99</quart_price>
+    </item>
+
+
+    <item>
+        <name>Beef Egg Foo Young</name>
+        <abbrev>BEEF E.F.Y</abbrev>
+        <chinese>牛肉蓉蛋</chinese>
+        <type>B</type>
+        <pint_price>10.50</pint_price>
+        <quart_price>12.99</quart_price>
+    </item>
+
+
+    <item>
+        <name>Shrimp Egg Foo Young</name>
+        <abbrev>SHRIMP E.F.Y</abbrev>
+        <chinese>虾蓉蛋</chinese>
+        <type>B</type>
+        <pint_price>10.50</pint_price>
+        <quart_price>12.99</quart_price>
+    </item>
+
+</items>

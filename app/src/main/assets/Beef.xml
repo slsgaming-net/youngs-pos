@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<items>
+
+    <item>
+        <name>Pepper Steak</name>
+        <abbrev>PEPPER STEAK</abbrev>
+        <chinese>辣椒牛</chinese>
+        <type>A</type>
+        <price>13.99</price>
+    </item>
+
+
+    <item>
+        <name>Beef Bok Choy</name>
+        <abbrev>BEEF BOK CHOY</abbrev>
+        <chinese>牛肉白菜</chinese>
+        <type>A</type>
+        <price>13.99</price>
+    </item>
+
+
+    <item>
+        <name>Beef with Mushrooms</name>
+        <abbrev>BEEF MUSHROOMS</abbrev>
+        <chinese>牛肉蘑菇</chinese>
+        <type>A</type>
+        <price>14.50</price>
+    </item>
+
+
+    <item>
+        <name>Beef with Pea Pods</name>
+        <abbrev>BEEF PEA PODS</abbrev>
+        <chinese>牛肉雪豆</chinese>
+        <type>A</type>
+        <price>14.99</price>
+    </item>
+
+
+    <item>
+        <name>Beef with Broccoli</name>
+        <abbrev>BEEF BROCCOLI</abbrev>
+        <chinese>牛肉西兰花</chinese>
+        <type>A</type>
+        <price>13.99</price>
+    </item>
+
+
+    <item>
+        <name>Steak Kow</name>
+        <abbrev>STEAK KOW</abbrev>
+        <chinese>士的球</chinese>
+        <type>A</type>
+        <price>13.99</price>
+    </item>
+
+
+    <item>
+        <name>Steak A La Steak</name>
+        <abbrev>STEAK A LA STEAK</abbrev>
+        <chinese>牛肉糊</chinese>
+        <type>A</type>
+        <price>14.99</price>
+    </item>
+
+
+    <item>
+        <name>Cashew Beef</name>
+        <abbrev>CASHEW BEEF</abbrev>
+        <chinese>腰果牛</chinese>
+        <type>A</type>
+        <price>14.99</price>
+    </item>
+
+
+    <item>
+        <name>Szechuan Beef</name>
+        <abbrev>SZECHUAN BEEF</abbrev>
+        <chinese>四川牛</chinese>
+        <type>A</type>
+        <price>14.50</price>
+    </item>
+
+
+    <item>
+        <name>Ku Bo Beef</name>
+        <abbrev>KU BO BEEF</abbrev>
+        <chinese>宫保牛</chinese>
+        <type>A</type>
+        <price>14.50</price>
+    </item>
+
+
+    <item>
+        <name>Mongolian Beef</name>
+        <abbrev>MONGOLIAN BEEF</abbrev>
+        <chinese>蒙古牛</chinese>
+        <type>A</type>
+        <price>14.99</price>
+    </item>
+
+</items>

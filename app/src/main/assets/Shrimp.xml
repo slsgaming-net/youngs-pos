@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<items>
+
+    <item>
+        <name>Chinese Fried Shrimp</name>
+        <abbrev>FRIED SHRIMP</abbrev>
+        <chinese>炸虾</chinese>
+        <type>B</type>
+        <price>14.50</price>
+    </item>
+
+
+    <item>
+        <name>sweet &amp; sour Shrimp</name>
+        <abbrev>SWEET &amp; SOUR SHR</abbrev>
+        <chinese>甜酸虾</chinese>
+        <type>B</type>
+        <price>14.50</price>
+    </item>
+
+    <item>
+        <name>Shrimp in Lobster Sauce</name>
+        <abbrev>SHR LOBS SAUCE</abbrev>
+        <chinese>虾龙糊</chinese>
+        <type>A</type>
+        <price>13.99</price>
+    </item>
+
+
+    <item>
+        <name>Harr Kow</name>
+        <abbrev>HARR KOW</abbrev>
+        <chinese>虾球</chinese>
+        <type>A</type>
+        <price>13.99</price>
+    </item>
+
+
+    <item>
+        <name>Cashew Shrimp</name>
+        <abbrev>CASHEW SHRIMP</abbrev>
+        <chinese>腰果虾</chinese>
+        <type>A</type>
+        <price>14.99</price>
+    </item>
+
+
+    <item>
+        <name>Szechuan Shrimp</name>
+        <abbrev>SZECHUAN SHRIMP</abbrev>
+        <chinese>四川虾</chinese>
+        <type>A</type>
+        <price>14.50</price>
+    </item>
+
+
+    <item>
+        <name>Ku Bo Shrimp</name>
+        <abbrev>KU BO SHRIMP</abbrev>
+        <chinese>宫保虾</chinese>
+        <type>A</type>
+        <price>14.50</price>
+    </item>
+
+
+    <item>
+        <name>Shrimp W Broccoli</name>
+        <abbrev>SHRIMP W BROCCOLI</abbrev>
+        <chinese>芥兰虾</chinese>
+        <type>A</type>
+        <price>13.99</price>
+    </item>
+
+</items>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<items>
+
+    <item>
+        <name>Chicken Chop Suey</name>
+        <abbrev>CH CHOP SUEY</abbrev>
+        <chinese>鸡杂</chinese>
+        <type>A</type>
+        <pint_price>9.50</pint_price>
+        <quart_price>11.99</quart_price>
+    </item>
+
+    <item>
+        <name>Beef Chop Suey</name>
+        <abbrev>BEEF CHOP SUEY</abbrev>
+        <chinese>牛杂</chinese>
+        <type>A</type>
+        <pint_price>10.00</pint_price>
+        <quart_price>12.50</quart_price>
+    </item>
+
+    <item>
+        <name>Shrimp Chop Suey</name>
+        <abbrev>SHRIMP CHOP SUEY</abbrev>
+        <chinese>虾杂</chinese>
+        <type>A</type>
+        <pint_price>10.00</pint_price>
+        <quart_price>12.50</quart_price>
+    </item>
+
+
+    <item>
+        <name>Vegetable Chop Suey</name>
+        <abbrev>VEG CHOP SUEY</abbrev>
+        <chinese>瓜菜杂</chinese>
+        <type>A</type>
+        <pint_price>9.00</pint_price>
+        <quart_price>11.50</quart_price>
+    </item>
+
+
+    <item>
+        <name>Chop Suey</name>
+        <abbrev> CHOP SUEY</abbrev>
+        <chinese>肉杂</chinese>
+        <type>A</type>
+        <pint_price>9.00</pint_price>
+        <quart_price>11.50</quart_price>
+    </item>
+
+</items>

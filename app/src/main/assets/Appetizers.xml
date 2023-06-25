@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<items>
+
+    <item>
+        <name>Egg Roll</name>
+        <abbrev>EGG ROLL</abbrev>
+        <chinese>春卷</chinese>
+        <type>B</type>
+        <price>2.00</price>
+    </item>
+
+
+    <item>
+        <name>Spring Roll</name>
+        <abbrev>SPRING ROLL</abbrev>
+        <chinese>斋卷</chinese>
+        <type>B</type>
+        <price>2.00</price>
+    </item>
+
+
+    <item>
+        <name>Crab Meat Rangoon</name>
+        <abbrev>CRAB RANGOON</abbrev>
+        <chinese>蟹角</chinese>
+        <type>B</type>
+        <price>7.50</price>
+    </item>
+
+
+    <item>
+        <name>Steamed Chicken Dumplings</name>
+        <abbrev>STEAMED DUMPLINGS</abbrev>
+        <chinese>蒸饺子</chinese>
+        <type>B</type>
+        <price>7.50</price>
+    </item>
+
+
+    <item>
+        <name>Fried Chicken Dumplings</name>
+        <abbrev>FRIED DUMPLINGS</abbrev>
+        <chinese>炸饺子</chinese>
+        <type>B</type>
+        <price>7.50</price>
+    </item>
+
+	
+    <item>
+        <name>Crispy Wings</name>
+        <abbrev>CRISPY WINGS</abbrev>
+        <chinese>炸鸡翼</chinese>
+        <type>B</type>
+        <price>9.99</price>
+    </item>
+
+
+    <item>
+        <name>Edamane</name>
+        <abbrev>EDAMANE</abbrev>
+        <chinese>毛豆</chinese>
+        <type>B</type>
+        <price>5.50</price>
+    </item>
+
+
+    <item>
+        <name>Steamed broccoli</name>
+        <abbrev>STEAMED BROCCOLI</abbrev>
+        <chinese>浸西兰花</chinese>
+        <type>B</type>
+        <price>6.00</price>
+    </item>
+
+    <item>
+        <name>Red Bean Doughnut</name>
+        <abbrev>RED BEAN DOUGHNUT</abbrev>
+        <chinese>红豆</chinese>
+        <type>B</type>
+        <price>5.00</price>
+    </item>
+	
+    <item>
+        <name>Custard Doughnut</name>
+        <abbrev>CUSTARD  DOUGHNUT</abbrev>
+        <chinese>奶黄</chinese>
+        <type>B</type>
+        <price>6.00</price>
+	</item>
+	
+	<item>
+        <name>Other a</name>
+        <abbrev>OTHER A</abbrev>
+        <chinese>其它</chinese>
+        <type>B</type>
+        <price>0.50</price>
+    </item>
+
+    <item>
+        <name>Other b</name>
+        <abbrev>OTHER B</abbrev>
+        <chinese>其它</chinese>
+        <type>B</type>
+        <price>1.00</price>
+    </item>
+
+    <item>
+        <name>Other c</name>
+        <abbrev>OTHER C</abbrev>
+        <chinese>其它</chinese>
+        <type>B</type>
+        <price>2.00</price>
+    </item>
+	
+	<item>
+        <name>Other d</name>
+        <abbrev>OTHER D</abbrev>
+        <chinese>其它</chinese>
+        <type>B</type>
+        <price>3.00</price>
+    </item>
+	
+    <item>
+        <name>Other e</name>
+        <abbrev>OTHER E</abbrev>
+        <chinese>其它</chinese>
+        <type>B</type>
+        <price>4.00</price>
+    </item>
+
+    <item>
+        <name>Other f</name>
+        <abbrev>OTHER F</abbrev>
+        <chinese>其它</chinese>
+        <type>B</type>
+        <price>5.00</price>
+    </item>
+
+    <item>
+        <name>Other g</name>
+        <abbrev>OTHER G</abbrev>
+        <chinese>其它</chinese>
+        <type>B</type>
+        <price>6.00</price>
+    </item>
+
+</items>

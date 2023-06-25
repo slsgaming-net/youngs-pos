@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<items>
+
+    <item>
+        <name>#1 Almond Chicken</name>
+        <abbrev>D#1 ALMOND CH</abbrev>
+        <chinese>窝烧鸡套餐</chinese>
+        <type>B</type>
+        <price>13.50</price>
+    </item>
+
+
+    <item>
+        <name>#2 Sweet &amp; Sour Chicken</name>
+        <abbrev>D#2 SWEET&amp; SOUR CH</abbrev>
+        <chinese>甜酸鸡套餐</chinese>
+        <type>B</type>
+        <price>13.50</price>
+    </item>
+
+
+    <item>
+        <name>#3 Chicken Chop Suey</name>
+        <abbrev>D#3 CH CHOP SUEY</abbrev>
+        <chinese>鸡杂碎套餐</chinese>
+        <type>A</type>
+        <price>11.99</price>
+    </item>
+
+
+    <item>
+        <name>#4 Chicken Subgum</name>
+        <abbrev>D#4 CH SUBGUM</abbrev>
+        <chinese>鸡什锦套餐</chinese>
+        <type>A</type>
+        <price>12.99</price>
+    </item>
+
+
+    <item>
+        <name>#5 Gai Kow</name>
+        <abbrev>D#5 GAI KOW</abbrev>
+        <chinese>鸡球套餐</chinese>
+        <type>A</type>
+        <price>13.50</price>
+    </item>
+
+
+    <item>
+        <name>#6 Chicken Egg Foo Young</name>
+        <abbrev>D#6 CH EFY</abbrev>
+        <chinese>鸡蓉蛋套餐</chinese>
+        <type>B</type>
+        <price>11.99</price>
+    </item>
+
+    <item>
+        <name>#7 Szechuan Chicken</name>
+        <abbrev>D#7 SZECHUAN CH</abbrev>
+        <chinese>四川鸡套餐</chinese>
+        <type>A</type>
+        <price>13.99</price>
+    </item>
+
+
+    <item>
+        <name>#8 Ku Bo Chicken</name>
+        <abbrev>D#8 KU BO CH</abbrev>
+        <chinese>宫保鸡套餐</chinese>
+        <type>A</type>
+        <price>13.99</price>
+    </item>
+
+
+    <item>
+        <name>#9 Chicken with Broccoli</name>
+        <abbrev>D#9 CH BROCCOLI</abbrev>
+        <chinese>鸡西兰花套餐</chinese>
+        <type>A</type>
+        <price>13.50</price>
+    </item>
+
+
+    <item>
+        <name>#10 Pepper Steak</name>
+        <abbrev>D#10 PEPPER STEAK</abbrev>
+        <chinese>辣椒牛套餐</chinese>
+        <type>A</type>
+        <price>13.99</price>
+    </item>
+
+
+    <item>
+        <name>#11 Beef Chop Suey</name>
+        <abbrev>D#11 BEEF CHOP SUEY</abbrev>
+        <chinese>牛肉杂碎套餐</chinese>
+        <type>A</type>
+        <price>12.99</price>
+    </item>
+
+
+    <item>
+        <name>#12 Beef with Broccoli</name>
+        <abbrev>D#12 BEEF BROCCOLI</abbrev>
+        <chinese>牛肉西兰花套餐</chinese>
+        <type>A</type>
+        <price>13.99</price>
+    </item>
+
+
+    <item>
+        <name>#13 Shrimp Chop Suey</name>
+        <abbrev>D#13 SHR CHOP SUEY</abbrev>
+        <chinese>虾杂套餐</chinese>
+        <type>A</type>
+        <price>12.99</price>
+    </item>
+
+
+    <item>
+        <name>#14 Har Kow</name>
+        <abbrev>D#14 HAR KOW</abbrev>
+        <chinese>虾球套餐</chinese>
+        <type>A</type>
+        <price>13.99</price>
+    </item>
+
+
+    <item>
+        <name>#15 Sweet &amp; Sour Pork</name>
+        <abbrev>D#15 SWEET &amp; SOUR PK</abbrev>
+        <chinese>甜酸肉套餐</chinese>
+        <type>B</type>
+        <price>13.50</price>
+    </item>
+
+
+    <item>
+        <name>#16 Fresh mix Vegetables</name>
+        <abbrev>D#16 MIXED VEG</abbrev>
+        <chinese>瓜菜球套餐</chinese>
+        <type>A</type>
+        <price>11.50</price>
+    </item>
+
+
+    <item>
+        <name>#17 General Tao&apos;s</name>
+        <abbrev>D#17 GEN TAO&apos;S</abbrev>
+        <chinese>将军鸡套餐</chinese>
+        <type>B</type>
+        <price>13.99</price>
+    </item>
+
+
+    <item>
+        <name>#18 Sesame Chicken</name>
+        <abbrev>D#18 SESAME CH</abbrev>
+        <chinese>芝麻鸡套餐</chinese>
+        <type>B</type>
+        <price>13.99</price>
+    </item>
+
+</items>

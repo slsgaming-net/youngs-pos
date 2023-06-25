@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<items>
+
+    <item>
+        <name>Egg Drop Soup</name>
+        <abbrev>EGG DROP SOUP</abbrev>
+        <chinese>蛋花汤</chinese>
+        <type>C</type>
+        <pint_price>4.50</pint_price>
+        <quart_price>6.50</quart_price>
+    </item>
+
+
+    <item>
+        <name>Wonton Soup</name>
+        <abbrev>WONTON SOUP</abbrev>
+        <chinese>云吞汤</chinese>
+        <type>C</type>
+        <pint_price>4.50</pint_price>
+        <quart_price>6.50</quart_price>
+    </item>
+
+    <item>
+        <name>Hot and Sour Soup</name>
+        <abbrev>HOT AND SOUR SOUP</abbrev>
+        <chinese>酸辣汤</chinese>
+        <type>C</type>
+        <pint_price>5.50</pint_price>
+        <quart_price>7.50</quart_price>
+    </item>
+
+
+    <item>
+        <name>Chinese Vegetable Soup</name>
+        <abbrev>VEG SOUP</abbrev>
+        <chinese>瓜菜汤</chinese>
+        <type>C</type>
+        <pint_price>4.50</pint_price>
+        <quart_price>6.50</quart_price>
+    </item>
+
+
+    <item>
+        <name>Chicken Rice Soup</name>
+        <abbrev>CH RICE SOUP</abbrev>
+        <chinese>鸡饭汤</chinese>
+        <type>C</type>
+		<pint_price>4.50</pint_price>
+        <quart_price>6.50</quart_price>
+    </item>
+	
+
+    <item>
+        <name>Sizzling Rice Soup</name>
+        <abbrev>SIZ RICE SOUP</abbrev>
+        <chinese>饭焦汤</chinese>
+        <type>C</type>
+        <pint_price>0.00</pint_price>
+        <quart_price>8.00</quart_price>
+    </item>
+
+
+    <item>
+        <name>Subgum Wonton Soup</name>
+        <abbrev>SUBGUM WONTON SOUP</abbrev>
+        <chinese>什锦云吞汤</chinese>
+        <type>C</type>
+        <pint_price>0.00</pint_price>
+        <quart_price>9.99</quart_price>
+    </item>
+
+    <item>
+        <name>Wonton Chips</name>
+        <abbrev>WONTON CHIPS</abbrev>
+        <chinese>云吞脆片</chinese>
+        <type>C</type>
+        <pint_price>0.00</pint_price>
+        <quart_price>1.00</quart_price>
+    </item>
+	
+</items>

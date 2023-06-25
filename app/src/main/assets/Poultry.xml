@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<items>
+
+    <item>
+        <name>Almond Boneless Chicken</name>
+        <abbrev>ALMOND B. CH</abbrev>
+        <chinese>窝烧鸡</chinese>
+        <type>B</type>
+        <price>13.50</price>
+    </item>
+
+    <item>
+        <name>Sweet &amp; Sour Chicken</name>
+        <abbrev>SWEET &amp; SOUR CH</abbrev>
+        <chinese>甜酸鸡</chinese>
+        <type>B</type>
+        <price>13.50</price>
+    </item>
+
+    <item>
+        <name>Gai Kow</name>
+        <abbrev>GAI KOW</abbrev>
+        <chinese>鸡球</chinese>
+        <type>A</type>
+        <price>13.50</price>
+    </item>
+
+
+    <item>
+        <name>General Tao Chicken</name>
+        <abbrev>GENERAL TAO CHICKEN</abbrev>
+        <chinese>将军鸡</chinese>
+        <type>B</type>
+        <price>13.99</price>
+    </item>
+
+
+    <item>
+        <name>Sesame Chicken</name>
+        <abbrev>SESAME CH</abbrev>
+        <chinese>芝麻鸡</chinese>
+        <type>B</type>
+        <price>13.99</price>
+    </item>
+
+
+    <item>
+        <name>Chicken with Mushrooms</name>
+        <abbrev>CHICKEN MUSHROOMS</abbrev>
+        <chinese>蘑菇鸡</chinese>
+        <type>A</type>
+        <price>13.50</price>
+    </item>
+
+
+    <item>
+        <name>Chicken with Pea Pods</name>
+        <abbrev>CHICKEN PEA PODS</abbrev>
+        <chinese>雪豆鸡</chinese>
+        <type>A</type>
+        <price>14.50</price>
+    </item>
+
+
+    <item>
+        <name>Chicken with Broccoli</name>
+        <abbrev>CHICKEN BROCCOLI</abbrev>
+        <chinese>鸡西兰花</chinese>
+        <type>A</type>
+        <price>13.50</price>
+    </item>
+
+
+    <item>
+        <name>Honey Chicken</name>
+        <abbrev>HONEY CHICKEN</abbrev>
+        <chinese>蜜糖鸡</chinese>
+        <type>B</type>
+        <price>13.99</price>
+    </item>
+
+
+    <item>
+        <name>Orange Chicken</name>
+        <abbrev>ORANGE CHICKEN</abbrev>
+        <chinese>橙鸡</chinese>
+        <type>B</type>
+        <price>13.99</price>
+    </item>
+
+
+    <item>
+        <name>mongolian Chicken</name>
+        <abbrev>MONGOLIAN CHICKEN</abbrev>
+        <chinese>蒙古鸡</chinese>
+        <type>A</type>
+        <price>13.99</price>
+    </item>
+
+
+    <item>
+        <name>Cashew Chicken</name>
+        <abbrev>CASHEW CHICKEN</abbrev>
+        <chinese>腰果鸡</chinese>
+        <type>A</type>
+        <price>13.99</price>
+    </item>
+
+
+    <item>
+        <name>Szechuan Chicken</name>
+        <abbrev>SZECHUAN CH</abbrev>
+        <chinese>四川鸡</chinese>
+        <type>A</type>
+        <price>13.99</price>
+    </item>
+
+
+    <item>
+        <name>Ku Bo Chicken</name>
+        <abbrev>KU BO CHICKEN</abbrev>
+        <chinese>宫保鸡</chinese>
+        <type>A</type>
+        <price>13.99</price>
+    </item>
+
+
+    <item>
+        <name>yellow Curry Chicken</name>
+        <abbrev>YELLOW CURRY CH</abbrev>
+        <chinese>咖喱鸡</chinese>
+        <type>A</type>
+        <price>13.99</price>
+    </item>
+
+
+    <item>
+        <name>Hong Shue Gai</name>
+        <abbrev>HONG SHUE GAI</abbrev>
+        <chinese>红烧鸡</chinese>
+        <type>B</type>
+        <price>13.50</price>
+    </item>
+
+
+    <item>
+        <name>Subgum Wonton Special</name>
+        <abbrev>SUBGUM WONTON Special</abbrev>
+        <chinese>什锦云吞餐</chinese>
+        <type>A</type>
+        <price>14.50</price>
+    </item>
+
+
+    <item>
+        <name>Young&apos;s House Special</name>
+        <abbrev>YOUNG&apos;S HOUSE SPECIAL</abbrev>
+        <chinese>本楼小炒</chinese>
+        <type>A</type>
+        <price>14.50</price>
+    </item>
+
+    <item>
+        <name>Lemon Chicken</name>
+        <abbrev>LEMON CHICKEN</abbrev>
+        <chinese>柠檬鸡</chinese>
+        <type>B</type>
+        <price>13.99</price>
+    </item>
+
+</items>

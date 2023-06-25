@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<items>
+ 
+    <item>
+        <name>Chicken Subgum</name>
+        <abbrev>CH SUBGUM</abbrev>
+        <chinese>鸡什锦</chinese>
+        <type>A</type>
+        <pint_price>9.99</pint_price>
+        <quart_price>12.99</quart_price>
+    </item>  
+	
+	
+    <item>
+        <name>Beef Subgum</name>
+        <abbrev>BEEF SUBGUM</abbrev>
+        <chinese>牛肉什锦</chinese>
+        <type>A</type>
+        <pint_price>10.50</pint_price>
+        <quart_price>13.50</quart_price>
+    </item>
+
+
+    <item>
+        <name>Shrimp Subgum</name>
+        <abbrev>SHR SUBGUM</abbrev>
+        <chinese>虾什锦</chinese>
+        <type>A</type>
+        <pint_price>10.50</pint_price>
+        <quart_price>13.50</quart_price>
+    </item>
+
+
+
+  <item>
+        <name>Vegetable Subgum</name>
+        <abbrev>VEG SUBGUM</abbrev>
+        <chinese>瓜菜什锦</chinese>
+        <type>A</type>
+        <pint_price>9.50</pint_price>
+        <quart_price>11.99</quart_price>
+    </item>
+    
+
+  <item>
+        <name>Subgum</name>
+        <abbrev>SUBGUM</abbrev>
+        <chinese>什锦</chinese>
+        <type>A</type>
+        <pint_price>9.50</pint_price>
+        <quart_price>11.99</quart_price>
+    <
+
+</items>

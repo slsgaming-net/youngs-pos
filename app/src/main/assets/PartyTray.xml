@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<items>
+
+    <item>
+        <name>Appetizer Combo</name>
+        <abbrev>TRAY APPETIZER COMBO</abbrev>
+        <chinese>null</chinese>
+        <type>B</type>
+        <price>35.00</price>
+    </item>
+
+ 
+    <item>
+        <name>Almond Chicken</name>
+        <abbrev>ALMOND CHICKEN</abbrev>
+        <chinese>null</chinese>
+        <type>B</type>
+        <price>52.00</price>
+    </item>
+
+
+    <item>
+        <name>General Chicken Tray</name>
+        <abbrev>TRAY GEN CHICKEN</abbrev>
+        <chinese>null</chinese>
+        <type>B</type>
+        <price>50.00</price>
+    </item>
+
+<item>
+        <name>Sesame Chicken Tray</name>
+        <abbrev>TRAY SESAME CHICKEN</abbrev>
+        <chinese>null</chinese>
+        <type>B</type>
+        <price>50.00</price>
+    </item>
+
+    <item>
+        <name>Sweet &amp; Sour Chicken Tray</name>
+        <abbrev>TRAY SWEET &amp; SOUR CH</abbrev>
+        <chinese>null</chinese>
+        <type>B</type>
+        <price>48.00</price>
+    </item>
+
+
+    <item>
+        <name>Chicken Lo Mein Tray</name>
+        <abbrev>TRAY CH LO MEIN</abbrev>
+        <chinese>null</chinese>
+        <type>A</type>
+        <price>42.00</price>
+    </item>
+
+
+    <item>
+        <name>Mongolian Beef Tray</name>
+        <abbrev>TRAY MONGOLIAN BEEF</abbrev>
+        <chinese>null</chinese>
+        <type>A</type>
+        <price>50.00</price>
+    </item>
+
+
+    <item>
+        <name>Chicken Fried Rice Tray</name>
+        <abbrev>TRAY CH FRIED RICE</abbrev>
+        <chinese>null</chinese>
+        <type>A</type>
+        <price>40.00</price>
+    </item>
+
+    <item>
+        <name>Vegetable Fried Rice Tray</name>
+        <abbrev>TRAY VEG FRIED RICE</abbrev>
+        <chinese>null</chinese>
+        <type>A</type>
+        <price>40.00</price>
+    </item>
+
+    <item>
+        <name>Pork Fried Rice Tray</name>
+        <abbrev>TRAY PORK FRIED RICE</abbrev>
+        <chinese>null</chinese>
+        <type>A</type>
+        <price>42.00</price>
+    </item>
+
+    <item>
+        <name>Beef Fried Rice Tray</name>
+        <abbrev>TRAY BEEF FRIED RICE</abbrev>
+        <chinese>null</chinese>
+        <type>A</type>
+        <price>43.00</price>
+    </item>
+
+    <item>
+        <name>Shrimp Fried Rice Tray</name>
+        <abbrev>TRAY SHR FRIED RICE</abbrev>
+        <chinese>null</chinese>
+        <type>A</type>
+        <price>43.00</price>
+    </item>
+
+    <item>
+        <name>Young&apos;s Fried Rice Tray</name>
+        <abbrev>TRAY YS FRIED RICE</abbrev>
+        <chinese>null</chinese>
+        <type>A</type>
+        <price>45.00</price>
+    </item>
+
+    <item>
+        <name>Chicken Broccoli Tray</name>
+        <abbrev>TRAY CHICKEN BROC</abbrev>
+        <chinese>null</chinese>
+        <type>A</type>
+        <price>48.00</price>
+    </item>
+
+    <item>
+        <name> Pepper Steak Tray</name>
+        <abbrev>TRAY Pepper Steak</abbrev>
+        <chinese>null</chinese>
+        <type>B</type>
+        <price>48.00</price>
+    
+    </items>

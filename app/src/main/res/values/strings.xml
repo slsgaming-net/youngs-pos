@@ -1,0 +1,133 @@
+<resources>
+    <string name="app_name">Youngs_CarryOut_App</string>
+
+    <string name="dismiss_label">Dismiss</string>
+    <string name="ok_label">OK</string>
+    <string name="clear_all_label">Clear All</string>
+
+    <string-array name="carryOutMain">
+        <item>Combinations</item>
+        <item>Soup</item>
+        <item>Appetizers</item>
+        <item>Chop Suey</item>
+        <item>Chow Mein</item>
+        <item>Subgum</item>
+        <item>Fried Rice</item>
+        <item>Egg Foo young</item>
+        <item>Chicken</item>
+        <item>Beef</item>
+        <item>Shrimp</item>
+        <item>Lo Mein</item>
+        <item>Sweet &amp; Sour</item>
+        <item>Vegetarian</item>
+        <item>Thai Food</item>
+        <item>Miscellaneous</item>
+        <item>Drinks</item>
+        <item>Party Tray</item>
+    </string-array>
+
+
+    <string-array name="items">
+        <item>eggs</item>
+        <item>green onions</item>
+        <item>white onions</item>
+        <item>soy sauce</item>
+        <item>peanuts</item>
+        <item>garlic</item>
+        <item>msg</item>
+        <item>egg roll</item>
+        <item>rice</item>
+        <item>gravy</item>
+        <item>vegetables</item>
+        <item>zucchini</item>
+        <item>baby corn</item>
+        <item>beansprouts</item>
+        <item>mushrooms</item>
+        <item>pinapple</item>
+        <item>pea pods</item>
+        <item>bamboos</item>
+        <item>broccoli</item>
+        <item>carrots</item>
+        <item>celery</item>
+        <item>nuts</item>
+        <item>peppers</item>
+        <item>bok choy</item>
+        <item>sesame</item>
+        <item>beef</item>
+        <item>pork</item>
+        <item>shrimp</item>
+        <item>chicken</item>
+    </string-array>
+
+
+    <string-array name="onlyItems">
+        <item>vegetables</item>
+        <item>beef</item>
+        <item>pork</item>
+        <item>shrimp</item>
+        <item>chicken</item>
+    </string-array>
+
+
+    <string-array name="special_instructions">
+        <item>with chow mein</item>
+        <item>new oil no soy sauce</item>
+        <item>Steamed</item>
+        <item>EFY gravy</item>
+        <item>no msg</item>
+		<item>light salt</item>
+        <item>brown sauce</item>
+        <item>white sauce</item>
+        <item>light sauce</item>
+		<item>Extra sauce</item>
+		<item>Steam tofu</item>
+		<item>Extra crispy</item>
+		<item>No breaded</item>
+		</string-array>
+		
+
+
+    <string-array name="AddOnCategories">
+        <item>Meat</item>
+        <item>Vegetables</item>
+        <item>Miscellaneous</item>
+    </string-array>
+
+
+    <string-array name="AddOnMeat">
+        <item>beef</item>
+        <item>chicken</item>
+        <item>pork</item>
+        <item>shrimp</item>
+    </string-array>
+
+    <string-array name="AddOnVegetable">
+        <item>vegetables</item>
+        <item>broccoli</item>
+        <item>beansprouts</item>
+        <item>mushroom</item>
+        <item>green onions</item>
+        <item>pea pods</item>
+        <item>w. chestnuts</item>
+        <item>bok choy</item>
+        <item>w.onions</item>
+        <item>carrots</item>
+        <item>celery</item>
+        <item>peppers</item>
+        <item>peanuts</item>
+        <item>bamboos</item>
+        <item>babycorn</item>
+    </string-array>
+
+    <string-array name="AddOnMisc">
+        <item>tofu</item>
+        <item>eggs</item>
+        <item>wonton</item>
+        <item>sesame</item>
+        <item>nuts</item>
+        <item>noodle</item>
+        <item>eggs</item>
+    </string-array>
+
+
+</resources>

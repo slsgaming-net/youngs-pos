@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<items>
+
+    <item>
+        <name>Chicken Fried Rice</name>
+        <abbrev>CH FRIED RICE</abbrev>
+        <chinese>鸡炒饭</chinese>
+        <type>A</type>
+        <pint_price>8.00</pint_price>
+        <quart_price>10.99</quart_price>
+    </item>
+
+
+    <item>
+        <name>Shrimp Fried Rice</name>
+        <abbrev>SHR FRIED RICE</abbrev>
+        <chinese>虾炒饭</chinese>
+        <type>A</type>
+        <pint_price>9.00</pint_price>
+        <quart_price>11.50</quart_price>
+    </item>
+
+
+    <item>
+        <name>Beef Fried Rice</name>
+        <abbrev>BEEF FRIED RICE</abbrev>
+        <chinese>牛肉炒饭</chinese>
+        <type>A</type>
+        <pint_price>9.00</pint_price>
+        <quart_price>11.50</quart_price>
+    </item>
+
+
+    <item>
+        <name>Pork Fried Rice</name>
+        <abbrev>PORK FRIED RICE</abbrev>
+        <chinese>叉烧炒饭</chinese>
+        <type>A</type>
+        <pint_price>9.00</pint_price>
+        <quart_price>11.50</quart_price>
+    </item>
+
+
+    <item>
+        <name>Vegetable Fried Rice</name>
+        <abbrev>VEG FRIED RICE</abbrev>
+        <chinese>瓜菜炒饭</chinese>
+        <type>A</type>
+        <pint_price>8.00</pint_price>
+        <quart_price>10.99</quart_price>
+    </item>
+
+
+    <item>
+        <name>Young&apos;s Fried Rice</name>
+        <abbrev>YOUNGS FRIED R</abbrev>
+        <chinese>杨氏炒饭</chinese>
+        <type>A</type>
+        <pint_price>9.50</pint_price>
+        <quart_price>12.50</quart_price>
+    </item>
+
+
+    <item>
+        <name>Tofu Fried Rice</name>
+        <abbrev>TOFU FRIED R</abbrev>
+        <chinese>豆腐炒饭</chinese>
+        <type>A</type>
+        <quart_price>11.99</quart_price>
+    </item>
+
+</items>

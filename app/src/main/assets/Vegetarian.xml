@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<items>
+
+    <item>
+        <name>Steamed Broccoli (pt)</name>
+        <abbrev>PT STEAM BROCCOLI</abbrev>
+        <chinese>水煮西兰花</chinese>
+        <type>A</type>
+        <price>6.00</price>
+    </item>
+
+    <item>
+        <name>Steamed mixed veg(pt)</name>
+        <abbrev>pt STEAM VEG</abbrev>
+        <chinese>水煮杂菜</chinese>
+        <type>A</type>
+        <price>6.00</price>
+    </item>
+
+
+    <item>
+        <name>Fresh Mix Vegetable</name>
+        <abbrev>FRESH MIX VEG</abbrev>
+        <chinese>瓜菜球</chinese>
+        <type>A</type>
+        <price>11.50</price>
+    </item>
+
+
+    <item>
+        <name>Vegetable Chop Suey</name>
+        <abbrev>VEG CHOP SUEY</abbrev>
+        <chinese>瓜菜杂碎</chinese>
+        <type>A</type>
+        <price>11.50</price>
+    </item>
+
+
+    <item>
+        <name>Vegetable Subgum</name>
+        <abbrev>VEG SUBGUM</abbrev>
+        <chinese>瓜菜什锦</chinese>
+        <type>A</type>
+        <price>11.99</price>
+    </item>
+
+
+    <item>
+        <name>Tofu and Vegetable Stir Fry</name>
+        <abbrev>TOFU VEG STIR FRY</abbrev>
+        <chinese>豆腐杂菜</chinese>
+        <type>A</type>
+        <price>12.99</price>
+    </item>
+
+</items>

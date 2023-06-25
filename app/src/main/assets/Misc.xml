@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<items>
+
+    <item>
+        <name>White Rice (Pt)</name>
+        <abbrev>PT WHITE RICE</abbrev>
+        <chinese>半个白饭</chinese>
+        <type>D</type>
+        <price>2.75</price>
+    </item>
+
+
+    <item>
+        <name>White Rice (Qt)</name>
+        <abbrev>QT WHITE RICE</abbrev>
+        <chinese>大白饭</chinese>
+        <type>D</type>
+        <price>4.99</price>
+    </item>
+
+
+    <item>
+        <name>Fried Rice (Pt)</name>
+        <abbrev>PT FRIED RICE</abbrev>
+        <chinese>半个豉油炒饭</chinese>
+        <type>D</type>
+        <price>3.75</price>
+    </item>
+
+
+    <item>
+        <name>Fried Rice (Qt)</name>
+        <abbrev>QT FRIED RICE</abbrev>
+        <chinese>大豉油炒饭</chinese>
+        <type>D</type>
+        <price>6.75</price>
+    </item>
+
+
+    <item>
+        <name>Chow Mein Noodles (Lg)</name>
+        <abbrev>LG CHOW MEIN N.</abbrev>
+        <chinese>大面干</chinese>
+        <type>D</type>
+        <price>2.00</price>
+    </item>
+
+
+    <item>
+        <name>Hot Mustard</name>
+        <abbrev>HOT MUSTARD</abbrev>
+        <chinese>芥末</chinese>
+        <type>D</type>
+        <price>1.00</price>
+    </item>
+
+
+    <item>
+        <name>Spicy Oil</name>
+        <abbrev>SPICY OIL</abbrev>
+        <chinese>辣油</chinese>
+        <type>D</type>
+        <price>1.00</price>
+    </item>
+
+
+    <item>
+        <name>Plum Sauce (4 oz)</name>
+        <abbrev>LG PLUM SAUCE</abbrev>
+        <chinese>大春卷酱</chinese>
+        <type>D</type>
+        <price>1.00</price>
+    </item>
+
+
+    <item>
+        <name>Fortune Cookies (1/2 doz)</name>
+        <abbrev>FORTUNE COOKIES (6)</abbrev>
+        <chinese>小签语饼</chinese>
+        <type>D</type>
+        <price>2.00</price>
+    </item>
+
+
+    <item>
+        <name>Almond Cookies(2)</name>
+        <abbrev>ALMOND COOKIES(2) </abbrev>
+        <chinese>小杏仁饼</chinese>
+        <type>D</type>
+        <price>1.00</price>
+    </item>
+
+
+    <item>
+        <name>Almond Cookies (6)</name>
+        <abbrev>ALMOND COOKIES (6)</abbrev>
+        <chinese>杏仁饼</chinese>
+        <type>D</type>
+        <price>3.00</price>
+    </item>
+
+
+    <item>
+        <name>Sweet &amp; Sour Sauce</name>
+        <abbrev>SS SAUCE</abbrev>
+        <chinese>甜酸水</chinese>
+        <type>D</type>
+        <price>2.50</price>
+    </item>
+
+    <item>
+        <name>Almond Gravy</name>
+        <abbrev>ABC GRAVY </abbrev>
+        <chinese>鸡糊</chinese>
+        <type>D</type>
+        <price>2.50</price>
+    </item>
+
+
+    <item>
+        <name>Egg Foo Yong Gravy</name>
+        <abbrev>EFY GRAVY </abbrev>
+        <chinese>蓉蛋糊</chinese>
+        <type>D</type>
+        <price>2.50</price>
+    </item>
+
+
+    <item>
+        <name>Gen Tao Sauce</name>
+        <abbrev>GEN T SAUCE</abbrev>
+        <chinese>将军糊</chinese>
+        <type>D</type>
+        <price>4.50</price>
+    </item>
+
+
+    <item>
+        <name>Pan Fried Noodles(Pt)</name>
+        <abbrev>PT PAN FRIED NOODLES</abbrev>
+        <chinese>小煎面</chinese>
+        <type>D</type>
+        <price>7.00</price>
+    </item>
+
+
+    <item>
+        <name>Pan Fried Noodles(Qt)</name>
+        <abbrev>QT PAN FRIED NOODLES</abbrev>
+        <chinese>大煎面</chinese>
+        <type>D</type>
+        <price>9.00</price>
+    </item>
+
+
+
+</items>
+   
+   

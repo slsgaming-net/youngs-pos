@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<items>
+
+    <item>
+        <name>Can Pop</name>
+        <abbrev>CAN POP</abbrev>
+        <chinese>null</chinese>
+        <type>D</type>
+        <price>1.25</price>
+    </item>
+
+    <item>
+        <name>Bottle Pop</name>
+        <abbrev>BOTTLE POP</abbrev>
+        <chinese>null</chinese>
+        <type>D</type>
+        <price>2.00</price>
+    </item>
+
+    <item>
+        <name>Ice Tea</name>
+        <abbrev>ICE TEA</abbrev>
+        <chinese>null</chinese>
+        <type>D</type>
+        <price>2.00</price>
+	</item>
+	
+    <item>
+        <name>Thai Tea</name>
+        <abbrev>THAI TEA</abbrev>
+        <chinese>null</chinese>
+        <type>D</type>
+        <price>3.50</price>
+    </item>
+
+    <item>
+        <name>Water (Sm)</name>
+        <abbrev>WATER SMALL</abbrev>
+        <chinese>null</chinese>
+        <type>D</type>
+        <price>1.25</price>
+    </item>
+
+    <item>
+        <name>red bull</name>
+        <abbrev>RED BULL</abbrev>
+        <chinese>null</chinese>
+        <type>D</type>
+        <price>2.50</price>
+    </item>
+
+</items>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<items>
+
+    <item>
+        <name>Pai Thai Chicken</name>
+        <abbrev>PAI THAI CH</abbrev>
+        <chinese>泰国鸡河</chinese>
+        <type>A</type>
+        <price>12.99</price>
+    </item>
+
+
+    <item>
+        <name>Pai Thai Vegetable</name>
+        <abbrev>PAI THAI VEG</abbrev>
+        <chinese>泰国菜河</chinese>
+        <type>A</type>
+        <price>12.99</price>
+    </item>
+
+
+    <item>
+        <name>Pai Thai Shrimp</name>
+        <abbrev>PAI THAI SHR</abbrev>
+        <chinese>泰国虾河</chinese>
+        <type>A</type>
+        <price>13.99</price>
+    </item>
+
+
+    <item>
+        <name>Pai Thai Tofu</name>
+        <abbrev>PAI THAI TOFU</abbrev>
+        <chinese>泰国豆腐河</chinese>
+        <type>A</type>
+        <price>13.99</price>
+    </item>
+
+
+
+    <item>
+        <name>Thai Curry Chicken</name>
+        <abbrev>THAI CURRY CH</abbrev>
+        <chinese>泰国咖喱鸡</chinese>
+        <type>A</type>
+        <price>12.99</price>
+    </item>
+
+
+    <item>
+        <name>Thai Curry Vegetables</name>
+        <abbrev>THAI CURRY VEG</abbrev>
+        <chinese>泰国咖喱菜</chinese>
+        <type>A</type>
+        <price>12.99</price>
+    </item>
+
+
+    <item>
+        <name>Thai Curry Shrimp</name>
+        <abbrev>THAI CURRY SHR</abbrev>
+        <chinese>泰国咖喱虾</chinese>
+        <type>A</type>
+        <price>13.99</price>
+    </item>
+
+
+    <item>
+        <name>Thai Curry Tofu</name>
+        <abbrev>THAI CURRY TOFU</abbrev>
+        <chinese>泰国咖喱豆腐</chinese>
+        <type>A</type>
+        <price>13.99</price>
+    </item>
+
+
+    <item>
+        <name>Thai Curry Beef</name>
+        <abbrev>THAI CURRY BEEF</abbrev>
+        <chinese>泰国咖喱牛</chinese>
+        <type>A</type>
+        <price>13.99</price>
+    </item>
+
+
+</items>

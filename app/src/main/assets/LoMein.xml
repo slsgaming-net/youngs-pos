@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<items>
+ 
+    <item>
+        <name>chicken Lo Mein</name>
+        <abbrev>CHICKEN LO MEIN</abbrev>
+        <chinese>鸡捞面</chinese>
+        <type>A</type>
+        <price>12.99</price>
+    </item>
+
+
+    <item>
+        <name>plain Lo Mein</name>
+        <abbrev>Plain LO MEIN</abbrev>
+        <chinese>捞面</chinese>
+        <type>A</type>
+        <price>11.99</price>
+    </item>
+
+
+
+    <item>
+        <name>Shrimp Lo Mein</name>
+        <abbrev>Shrimp LO MEIN</abbrev>
+        <chinese>虾捞面</chinese>
+        <type>A</type>
+        <price>13.99</price>
+    </item>
+
+
+    <item>
+        <name>Beef Lo Mein</name>
+        <abbrev>BEEF LO MEIN</abbrev>
+        <chinese>牛肉捞面</chinese>
+        <type>A</type>
+        <price>13.99</price>
+    </item>
+
+
+    <item>
+        <name>Vegetables Lo Mein</name>
+        <abbrev>VEG LO MEIN</abbrev>
+        <chinese>瓜菜捞面</chinese>
+        <type>A</type>
+        <price>12.99</price>
+    </item>
+
+
+    <item>
+        <name>Young&apos;s Lo Mein</name>
+        <abbrev>Y.S. LO MEIN</abbrev>
+        <chinese>杨氏捞面</chinese>
+        <type>A</type>
+        <price>14.50</price>
+    </item>
+
+</items>

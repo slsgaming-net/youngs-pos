@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<items>
+
+    <item>
+        <name>Chicken Chow Mein</name>
+        <abbrev>CH CHOW MEIN</abbrev>
+        <chinese>鸡炒面</chinese>
+        <type>A</type>
+        <pint_price>9.50</pint_price>
+        <quart_price>11.99</quart_price>
+    </item>
+
+
+    <item>
+        <name>Beef Chow Mein</name>
+        <abbrev>BEEF CHOW MEIN</abbrev>
+        <chinese>牛肉炒面</chinese>
+        <type>A</type>
+        <pint_price>10.00</pint_price>
+        <quart_price>12.50</quart_price>
+    </item>
+
+
+    <item>
+        <name>Shrimp Chow Mein</name>
+        <abbrev>SHR CHOW MEIN</abbrev>
+        <chinese>虾炒面</chinese>
+        <type>A</type>
+        <pint_price>10.00</pint_price>
+        <quart_price>12.50</quart_price>
+    </item>
+
+
+    <item>
+        <name> Chow Mein</name>
+        <abbrev> CHOW MEIN</abbrev>
+        <chinese>炒面</chinese>
+        <type>A</type>
+        <pint_price>9.50</pint_price>
+        <quart_price>11.99</quart_price>
+    </item>
+
+
+    <item>
+        <name>Vegetable Chow Mein</name>
+        <abbrev>VEG CHOW MEIN</abbrev>
+        <chinese>瓜菜炒面</chinese>
+        <type>A</type>
+        <pint_price>9.00</pint_price>
+        <quart_price>11.50</quart_price>
+    </item>
+
+
+</items>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<items>
+
+    <item>
+        <name>Sweet &amp; Sour Chicken</name>
+        <abbrev>SWEET &amp; SOUR CH</abbrev>
+        <chinese>甜酸鸡</chinese>
+        <type>B</type>
+        <price>13.50</price>
+    </item>
+
+
+    <item>
+        <name>Sweet &amp; Sour Pork</name>
+        <abbrev>SWEET &amp; SOUR PORK</abbrev>
+        <chinese>甜酸肉</chinese>
+        <type>B</type>
+        <price>13.50</price>
+    </item>
+
+
+    <item>
+        <name>Sweet &amp; Sour Shrimp</name>
+        <abbrev>SWEET &amp; SOUR SHR</abbrev>
+        <chinese>甜酸虾</chinese>
+        <type>B</type>
+        <price>14.50</price>
+    </item>
+
+</items>
